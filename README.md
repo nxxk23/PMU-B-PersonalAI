@@ -7,7 +7,7 @@
 | 2 | ʟᴇᴀʀɴɪɴɢ ꜰʀᴏᴍ ʙɪᴏꜱɪɢɴᴀʟ | [1ᴅ ᴄɴɴ ꜰᴏʀ ʙʀᴀɪɴ ꜱɪɢɴᴀʟ](WorkShop/WorkShop2_BiosignalModel.py) | [ʟᴇᴄᴛᴜʀᴇ2](Lecture/Lecture2_Biosignal.pdf) | [ᴅᴏᴄᴜᴍᴇɴᴛ2](https://drive.google.com/drive/folders/1ZWYsgQaMztE_KxHUUT7dp-Z51vSp1Z6q) |
 | 3 | ᴀɪ ꜰᴏʀ ᴅᴇᴛᴇᴄᴛɪɴɢ ᴄᴏᴅᴇ ᴘʟᴀɢɪᴀʀɪꜱᴍ | [ᴄᴏᴅᴇ2ᴠᴇᴄ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ᴄᴏᴅᴇ ᴄʟᴏɴᴇ](WorkShop/WorkShop3_CodeClone.ipynb) | [ʟᴇᴄᴛᴜʀᴇ3](Lecture/Lecture3_CodePlagiarism.pdf) | [ᴅᴏᴄᴜᴍᴇɴᴛ3](https://drive.google.com/drive/folders/1t-RL2SHrjztbW630o4VjY02a9II0tMsQ) |
 | 4 | ᴍᴇɴᴛᴀʟ ᴅɪꜱᴏʀᴅᴇʀ ᴅᴇᴛᴇᴄᴛɪᴏɴ ꜰʀᴏᴍ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ᴅᴀᴛᴀ | ɴʟᴘ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴛɪᴏɴ | [ʟᴇᴄᴛᴜʀᴇ4](Lecture/Lecture4_MentalDisorderfromSocialMedia.pdf) | [ᴅᴏᴄᴜᴍᴇɴᴛ4](https://drive.google.com/drive/folders/1XYuuqvKlfR0BlUyOTZjtUeFr-Tq5sf44) |
-| 5 | ʙɪᴛɴᴇᴛ: ᴀɪ ꜰᴏʀ ᴅɪᴀɢɴᴏꜱɪɴɢ ᴜʟᴛʀᴀꜱᴏᴜɴᴅ ɪᴍᴀɢᴇ | ᴇꜰꜰᴄɪᴇɴᴛɴᴇᴛ: ɪᴍᴀɢᴇ ᴄʟᴀꜱꜱɪꜰɪᴄᴀɪᴛᴏɴ | [ʟᴇᴄᴛᴜʀᴇ5](Lecture/Lecture5_BitNet.pdf) | [ᴅᴏᴄᴜᴍᴇɴᴛ5](https://drive.google.com/drive/folders/1oidtwy8eeP2rQ-iQrVsxcvRLBQ8eKHrq) |
+| 5 | ʙɪᴛɴᴇᴛ: ᴀɪ ꜰᴏʀ ᴅɪᴀɢɴᴏꜱɪɴɢ ᴜʟᴛʀᴀꜱᴏᴜɴᴅ ɪᴍᴀɢᴇ | [ᴇꜰꜰᴄɪᴇɴᴛɴᴇᴛ: ɪᴍᴀɢᴇ ᴄʟᴀꜱꜱɪꜰɪᴄᴀɪᴛᴏɴ](WorkShop/WorkShop5_EffNetImageClassify.ipynb) | [ʟᴇᴄᴛᴜʀᴇ5](Lecture/Lecture5_BitNet.pdf) | [ᴅᴏᴄᴜᴍᴇɴᴛ5](https://drive.google.com/drive/folders/1oidtwy8eeP2rQ-iQrVsxcvRLBQ8eKHrq) |
 | 6 | ᴀɪ ꜰᴏʀ ᴀʀʀᴇꜱᴛɪɴɢ ᴄʀɪᴍɪɴᴀʟꜱ | ʏᴏʟᴏ ᴅᴇᴛᴇᴄᴛɪᴏɴ // ꜰᴀᴄᴇ ʀᴇᴄᴏɢɴɪᴛɪᴏɴ | [ʟᴇᴄᴛᴜʀᴇ6](Lecture/Lecture6_ObjectDetection.pdf) | [ᴅᴏᴄᴜᴍᴇɴᴛ6](https://drive.google.com/drive/folders/1LR_1LWKMVkrcLi0aYjjWjNgaDiZ9OJX3) |
 
 ## **🚩ᴄᴏᴜʀꜱᴇ ᴅᴇᴛᴀɪʟꜱ**
