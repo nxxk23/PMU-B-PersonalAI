@@ -66,4 +66,4 @@
     รายละเอียดเพิ่มเติมเกี่ยวกับการตรวจจับและระบุตำแหน่งเหตุการณ์ผิดปกติที่มีความถูกต้องสูง สามารถอ่านได้จากบทความได้ทาง [ꜱᴄɪᴇɴᴄᴇᴅɪʀᴇᴄᴛ](https://www.sciencedirect.com/science/article/pii/S0167865521003925)
 
 ## **🎬 🇵​​🇷​​🇪​​🇸​​🇪​​🇳​​🇹​​🇦​​🇹​​🇮​​🇴​​🇳​ ​🇻​​🇮​​🇩​​🇪​​🇴​**
-[![Watch the video](http://img.youtube.com/vi/____________/hqdefault.jpg)](https://youtu.be/____________)
+[![Watch the video](http://img.youtube.com/vi/ef1I7rt-30U/hqdefault.jpg)](https://youtu.be/ef1I7rt-30U)
