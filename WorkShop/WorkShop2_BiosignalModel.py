@@ -19,19 +19,19 @@ def simple_model():
         nn.ReLU(inplace=True),
         nn.MaxPool1d(kernel_size=8, stride=8),
         nn.Dropout(p=0.5),
-        nn.Conv1d(in_channels=128, out_channels=128, kernel_size=8, stride=1, bias=False),
+        nn.Conv1d(in_channels=128, out_channels=128, kernel_size=1, stride=1, bias=False),
         nn.BatchNorm1d(num_features=128, eps=0.001, momentum=0.01),
         nn.ReLU(inplace=True),
-        nn.Conv1d(in_channels=128, out_channels=128, kernel_size=8, stride=1, bias=False),
+        nn.Conv1d(in_channels=128, out_channels=128, kernel_size=1, stride=1, bias=False),
         nn.BatchNorm1d(num_features=128, eps=0.001, momentum=0.01),
         nn.ReLU(inplace=True),
-        nn.Conv1d(in_channels=128, out_channels=128, kernel_size=8, stride=1, bias=False),
+        nn.Conv1d(in_channels=128, out_channels=128, kernel_size=1, stride=1, bias=False),
         nn.BatchNorm1d(num_features=128, eps=0.001, momentum=0.01),
         nn.ReLU(inplace=True),
         nn.MaxPool1d(kernel_size=4, stride=4),
         nn.Dropout(p=0.5),
         nn.Flatten(),
-        nn.Linear(in_features=128 * 6, out_features=5, bias=False) 
+        nn.Linear(in_features=384, out_features=5, bias=False)
     )
     return model
 
